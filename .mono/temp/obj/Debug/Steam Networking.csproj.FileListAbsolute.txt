@@ -1,0 +1,11 @@
+G:\Users\Cliente\Downloads\SteamNetworkingSeries-Godot-master\SteamNetworking\.mono\temp\bin\Debug\Steam Networking.dll
+G:\Users\Cliente\Downloads\SteamNetworkingSeries-Godot-master\SteamNetworking\.mono\temp\bin\Debug\Steam Networking.pdb
+G:\Users\Cliente\Downloads\SteamNetworkingSeries-Godot-master\SteamNetworking\.mono\temp\bin\Debug\FlatBuffers.dll
+G:\Users\Cliente\Downloads\SteamNetworkingSeries-Godot-master\SteamNetworking\.mono\temp\bin\Debug\Steamworks.NET.dll
+G:\Users\Cliente\Downloads\SteamNetworkingSeries-Godot-master\SteamNetworking\.mono\temp\bin\Debug\Steamworks.NET.dll.config
+G:\Users\Cliente\Downloads\SteamNetworkingSeries-Godot-master\SteamNetworking\.mono\temp\obj\Debug\Steam Networking.csproj.AssemblyReference.cache
+G:\Users\Cliente\Downloads\SteamNetworkingSeries-Godot-master\SteamNetworking\.mono\temp\obj\Debug\Steam Networking.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\Cliente\Downloads\SteamNetworkingSeries-Godot-master\SteamNetworking\.mono\temp\obj\Debug\Steam Networking.csproj.CoreCompileInputs.cache
+G:\Users\Cliente\Downloads\SteamNetworkingSeries-Godot-master\SteamNetworking\.mono\temp\obj\Debug\Steam Networking.csproj.CopyComplete
+G:\Users\Cliente\Downloads\SteamNetworkingSeries-Godot-master\SteamNetworking\.mono\temp\obj\Debug\Steam Networking.dll
+G:\Users\Cliente\Downloads\SteamNetworkingSeries-Godot-master\SteamNetworking\.mono\temp\obj\Debug\Steam Networking.pdb
